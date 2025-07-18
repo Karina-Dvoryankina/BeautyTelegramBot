@@ -53,9 +53,9 @@ EmberBeauty_bot/
 <img width="239" height="301" alt="image" src="https://github.com/user-attachments/assets/54232cc5-0a2a-4dd8-bb62-bb36651dce29" />
 
 ### Выбор ближайшей записи
-<img width="709" height="266" alt="image" src="https://github.com/user-attachments/assets/0379574d-42fc-430c-8fb2-8bb0d9b01c3e" />
+<img width="503" height="266" alt="image" src="https://github.com/user-attachments/assets/0379574d-42fc-430c-8fb2-8bb0d9b01c3e" />
 
 ### Успешная запись на услугу
-<img width="974" height="1088" alt="image" src="https://github.com/user-attachments/assets/af44214f-c477-4e21-b5b4-2b7437b1f856" />
+<img width="442" height="844" alt="image" src="https://github.com/user-attachments/assets/af44214f-c477-4e21-b5b4-2b7437b1f856" />
 
 
